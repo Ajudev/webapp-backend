@@ -1,0 +1,16 @@
+# Virtual Env
+venv/*
+
+# Django
+ra/__pycache__/*
+ra/*/migrations/*
+ra/*/settings/__init__.py
+ra/*/*/*/__pycache__/*
+ra/*/*/__pycache__/*
+ra/*/__pycache__/*
+ra/django-static/*
+db.sqlite3
+
+# Others
+.vscode
+.DS_Store
